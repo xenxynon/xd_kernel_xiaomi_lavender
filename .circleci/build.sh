@@ -66,7 +66,7 @@ function compile() {
 # Zipping
 function zipping() {
     cd AnyKernel || exit 1
-    zip -r9 Predator-Stormbreaker-lavender-${TANGGAL}.zip *
+    zip -r9 Sex-69420-RealNigga-V420-${TANGGAL}.zip *
     cd ..
 }
 sticker
